@@ -1,5 +1,3 @@
-Here’s a professional README.md you can use for your repository.
-
 🧠 Brain Tumor Segmentation Using Deep Learning (CNN)
 
 A deep learning-based brain tumor segmentation project that uses a CNN-based U-Net architecture with Twin Squeeze-and-Excitation (SE) attention blocks to accurately segment brain tumors from MRI scans. The model is trained and evaluated using the BraTS (Brain Tumor Segmentation Challenge) dataset and includes preprocessing, training, evaluation, and visualization pipelines.
@@ -8,8 +6,6 @@ A deep learning-based brain tumor segmentation project that uses a CNN-based U-N
 📌 Overview
 
 Brain tumor segmentation is an important task in medical image analysis that assists clinicians in identifying tumor regions for diagnosis and treatment planning. This project automates the segmentation process using deep learning techniques and evaluates performance using standard medical imaging metrics.
-
-
 
 ✨ Features
 
@@ -23,7 +19,6 @@ Brain tumor segmentation is an important task in medical image analysis that ass
 * Performance evaluation with multiple metrics
 * Visualization of segmentation predictions
 * Training history and performance graphs
-
 
 
 🗂 Dataset
@@ -42,7 +37,6 @@ Tumor regions segmented:
 * ET – Enhancing Tumor
 * TC – Tumor Core
 * WT – Whole Tumor
-
 
 
 📁 Project Structure
@@ -77,7 +71,6 @@ Brain-Tumor-Segmentation-CNN/
 └── LICENSE
 
 
-
 🛠 Technologies Used
 
 * Python
@@ -89,7 +82,6 @@ Brain-Tumor-Segmentation-CNN/
 * Matplotlib
 * Pandas
 * Scikit-learn
-
 
 
 🚀 Installation
@@ -198,4 +190,3 @@ Kurra Karthikeyan
 
 If you found this project helpful, consider giving it a ⭐ on GitHub.
 
-If you’re using this repository for placements or your portfolio, this README is professional, ATS-friendly, and suitable for recruiters and interviewers.
